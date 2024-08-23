@@ -1,4 +1,4 @@
-# Coc-Cola-sales
+# Coca-Cola-sales
 
 The primary objective of this project is to analyze the sales performance of Coca-Cola in the United States. Through comprehensive data analysis and visualization, this project aims to uncover key trends, patterns, and insights that can inform strategic decisions for stakeholders. By examining sales data, market share, and regional performance, this project will provide a holistic view of Coca-Cola's market position and its competitive landscape in the U.S.
 
